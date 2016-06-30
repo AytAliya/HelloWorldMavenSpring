@@ -1,0 +1,10 @@
+<html>
+<head>
+	<title>
+		HelloSpringMvc
+	</title>
+</head>
+<body>
+	${message}
+</body>
+</html>
